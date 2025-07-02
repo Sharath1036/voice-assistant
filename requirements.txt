@@ -1,0 +1,9 @@
+groq
+openai
+pydub
+pyttsx3
+gspread
+pyaudio
+SpeechRecognition
+oauth2client
+python-dotenv
