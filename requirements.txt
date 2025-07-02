@@ -7,3 +7,5 @@ pyaudio
 SpeechRecognition
 oauth2client
 python-dotenv
+agno
+duckduckgo-search
